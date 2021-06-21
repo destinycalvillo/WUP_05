@@ -77,3 +77,5 @@ We would reject the null hypothesis from the Fisher's test because of its really
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+First, we figured out which helper file we needed and did a variable analysis.It ended up being a categorical-categorical file. After we did the graphical descriptive test. We had to tailor it to the problem, which was only to look at the female section. We then performed a numerical descriptive test to see the actual odds that corresponded to the gg-plots. After, we got our inferential results in order to see the p-value and formally reject the null hypothesis. 
